@@ -1,0 +1,23 @@
+[33mcommit 8a546a9c0939f97e2abce2fc1893f154d3f76e77[m
+Author: unknown <alexartem27@gmail.com>
+Date:   Wed Apr 13 20:08:51 2016 +0300
+
+    added file logs.txt
+
+[33mcommit b9ab5244fdb13f9a30f040e09bea3ec25fc18360[m
+Author: unknown <alexartem27@gmail.com>
+Date:   Wed Apr 13 17:48:34 2016 +0300
+
+    file cpec_helper.rb changed
+
+[33mcommit 91a17bdfe8c1fc83bf629588232842c9e47bb092[m
+Author: IgorN <Igor.nikityuk@gmail.com>
+Date:   Tue Feb 9 19:38:20 2016 +0200
+
+    Comment order
+
+[33mcommit 6471137a0d1aba07e65350b6ab98a74613e23c61[m
+Author: IgorN <Igor.nikityuk@gmail.com>
+Date:   Tue Feb 9 19:32:45 2016 +0200
+
+    Init commit
